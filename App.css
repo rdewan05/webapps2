@@ -1,0 +1,29 @@
+.main-container{
+    margin-top: 50px;
+    box-sizing: border-box;
+}
+
+.comment-header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.comment-box #comment {
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+.comment-button button{
+    background-color: lightgreen;
+    border: none;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.comment-list {
+    margin-top: 80px;
+    border: 1px solid grey;
+}
+
